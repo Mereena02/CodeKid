@@ -1,6 +1,6 @@
 # 🚀 CodeKid
 
-CodeKid is an interactive, gamified learning platform designed to teach programming concepts to school students (especially those below 10th grade) in a fun and engaging way. Through multiple-choice quizzes, visual progress tracking, and personalized difficulty levels, CodeKid makes coding education accessible, playful, and rewarding.
+**CodeKid** is an interactive, gamified learning platform designed to teach programming concepts to school students (especially those below 10th grade) in a fun and engaging way. Through multiple-choice quizzes, visual progress tracking, and personalized difficulty levels, CodeKid makes coding education accessible, playful, and rewarding.
 
 ---
 
@@ -21,3 +21,12 @@ CodeKid is an interactive, gamified learning platform designed to teach programm
 - **Version Control**: Git & GitHub
 
 ---
+
+## 📦 Deployment
+
+This project is live and deployed on **Vercel**:
+
+🔗 [Visit CodeKid Live](https://code-kid-vr2g.vercel.app/)
+
+---
+
