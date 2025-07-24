@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, TypeScript, TailwindCSS
-- **Backend (if applicable)**: Node.js, Express.js
+- **Backend**: Node.js, Express.js
 - **Build Tools**: Vite
 - **Version Control**: Git & GitHub
 
